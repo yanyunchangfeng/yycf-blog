@@ -179,7 +179,7 @@ var Diaspora = {
         $('#loader').removeClass().addClass('loader'+ w).show()
     },
     loaded: function() {
-        $('#loader').removeClass().hide()
+        $('#loader').removeClass().hide();
     },
     F: function(id, w, h) {
         var _height = $(id).parent().height(),

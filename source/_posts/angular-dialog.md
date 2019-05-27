@@ -1,6 +1,11 @@
 ---
 title: Angular Dialog 组件的设计与实现
 date: 2019-05-17 20:38:45
+categories :
+         - Angular
+tags: 
+    - Dialog
+    - Angular
 ---
 
 你好，我是徐晓东，笔名**燕云长风**。大漠穷秋于 2019-03-16 21:22 赠此笔名。
