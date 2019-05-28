@@ -1,5 +1,5 @@
 ---
-title: 五大核心句式，动词时态]
+title: 五大核心句式，动词时态
 date: 2019-05-22 20:18:29
 categories :
          - english-grammer
