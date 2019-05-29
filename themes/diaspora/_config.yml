@@ -1,13 +1,14 @@
 # 头部菜单，title: link
 menu:
+  分类: /categories
+  标签云: /tags
+  归档: /archives
   知乎: https://zhihu.com/people/hbxyxuxiaodong
   知乎专栏: https://zhuanlan.zhihu.com/yanyunchangfeng
-  Github: https://github.com/yanyunchangfeng
-  Gitee: https://gitee.com/yanyunchangfeng
-  Twitter: https://twitter.com/Fyanyunchangfeng
-  分类: /categories
-  归档: /archives
-  标签云: /tags
+  github: https://github.com/yanyunchangfeng
+  gitee: https://gitee.com/yanyunchangfeng
+  twitter: https://twitter.com/yanyunchangfeng
+  medium: https://medium.com/@yanyunchangfeng
   
 # 是否显示目录
 TOC: false
@@ -48,7 +49,7 @@ gitalk:
     distractionFreeMode: false
 
 # 网站关键字
-keywords: yanyunchangfeng
+keywords: yanyunchangfeng 
 
 # 要使用google_analytics进行统计的话，这里需要配置ID
 google_analytics: UA-140908492-1
