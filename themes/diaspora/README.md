@@ -115,24 +115,24 @@ cover: /img/cover.jpg
 # Gitalk 评论插件（https://github.com/gitalk/gitalk）
 gitalk:
     # 是否自动展开评论框
-    autoExpand: false
+    autoExpand: true
     # 应用编号
-    clientID: ''
+    clientID: '45d1e04f5d74744344b5'
     # 应用秘钥
-    clientSecret: ''
+    clientSecret: '7896d2f0a681f1ec6b827d1b7396c7aa15bec3be'
     # issue仓库名
-    repo: ''
+    repo: 'https://github.com/yanyunchangfeng/yanyunchangfeng.github.io'
     # Github名
-    owner: ''
+    owner: 'yanyunchangfeng'
     # Github名
-    admin: ['']
+    admin: ['yanyunchangfeng']
     # Ensure uniqueness and length less than 50
     id: location.pathname
     # Facebook-like distraction free mode
-    distractionFreeMode: false
+    distractionFreeMode: true
 
 # 网站关键字
-keywords: Fechin
+keywords: 燕云长风 yanyunchangfeng yycf 长风 changfeng cf  yy 燕云 燕 云 
 
 # 要使用google_analytics进行统计的话，这里需要配置ID
 google_analytics: 

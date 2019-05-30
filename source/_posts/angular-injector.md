@@ -43,12 +43,12 @@ Angular提供了层次结构型的依赖，父子结构型的。
 
 ## 我的社交主页  
 
-1. [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng)  
-2. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
-3. [燕云长风Github](https://github.com/yanyunchangfeng)  
-4. [燕云长风Gitee](https://gitee.com/yanyunchangfeng)  
-5. [燕云长风Twitter](https://twitter.com/yanyunchangfeng)  
-6. [燕云长风Medium](https://medium.com/@yanyunchangfeng)  
+1. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
+2. [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng)  
+3. [燕云长风github](https://github.com/yanyunchangfeng)  
+4. [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
+5. [燕云长风twitter](https://twitter.com/yanyunchangfeng)  
+6. [燕云长风medium](https://medium.com/@yanyunchangfeng) 
 
 今天的分享就到这里，祝大家顺利，工作愉快，天天开心。
 

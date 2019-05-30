@@ -32,21 +32,21 @@ scrollbar: true
 # Gitalk 评论插件（https://github.com/gitalk/gitalk）
 gitalk:
     # 是否自动展开评论框
-    autoExpand: false
+    autoExpand: true
     # 应用编号
-    clientID: ''
+    clientID: '45d1e04f5d74744344b5'
     # 应用秘钥
-    clientSecret: ''
+    clientSecret: '7896d2f0a681f1ec6b827d1b7396c7aa15bec3be'
     # issue仓库名
-    repo: ''
+    repo: 'yanyunchangfeng.github.io'
     # Github名
-    owner: ''
+    owner: 'yanyunchangfeng'
     # Github名
-    admin: ['']
+    admin: ['yanyunchangfeng']
     # Ensure uniqueness and length less than 50
     id: location.pathname
     # Facebook-like distraction free mode
-    distractionFreeMode: false
+    distractionFreeMode: true
 
 # 网站关键字
 keywords: yanyunchangfeng 
